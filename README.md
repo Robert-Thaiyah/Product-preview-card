@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Source Code](https://github.com/Robert-Thaiyah/product-preview-card.git)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://robert-thaiyah.github.io/product-preview-card/)
 
 ## My process
 
