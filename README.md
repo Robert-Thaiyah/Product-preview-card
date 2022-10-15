@@ -34,10 +34,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Robert-Thaiyah/product-preview-card.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Source Code](https://github.com/Robert-Thaiyah/product-preview-card.git)
+- Live Site URL: [Live Site](https://your-live-site-url.com)
 
 ## My process
+
+- First thing I did was separate each part into separate divs with their own classes to make editing in CSS much easier.
+- I then used the styles guide to apply each style separately.
+- Flex was used to arrange all the items into a nice simple product card
 
 ### Built with
 
